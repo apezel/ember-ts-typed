@@ -1,5 +1,5 @@
 {
-  "name": "ember-ts-typed",
+  "name": "@types/ember-ts-typed",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
